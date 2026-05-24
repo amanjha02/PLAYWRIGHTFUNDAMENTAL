@@ -1,0 +1,2 @@
+before transaction balance:-$50,000.00
+After transaction balance:-$40,000.00

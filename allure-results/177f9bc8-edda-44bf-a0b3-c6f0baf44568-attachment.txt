@@ -1,0 +1,2 @@
+Admin URL: https://app.vwo.com/#/login
+Guest URL: https://app.vwo.com/#/login

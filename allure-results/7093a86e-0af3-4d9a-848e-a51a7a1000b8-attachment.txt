@@ -1,0 +1,4 @@
+commit: server responded
+domcontentloaded: HTML parsed
+load: all resources loaded
+networkidle: no requests for 500ms
